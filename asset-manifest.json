@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LizzzYu/react-practice-todolist-class/static/css/main.da74558a.chunk.css",
+    "main.js": "/LizzzYu/react-practice-todolist-class/static/js/main.3171367e.chunk.js",
+    "main.js.map": "/LizzzYu/react-practice-todolist-class/static/js/main.3171367e.chunk.js.map",
+    "runtime-main.js": "/LizzzYu/react-practice-todolist-class/static/js/runtime-main.bc892859.js",
+    "runtime-main.js.map": "/LizzzYu/react-practice-todolist-class/static/js/runtime-main.bc892859.js.map",
+    "static/js/2.e1aaf660.chunk.js": "/LizzzYu/react-practice-todolist-class/static/js/2.e1aaf660.chunk.js",
+    "static/js/2.e1aaf660.chunk.js.map": "/LizzzYu/react-practice-todolist-class/static/js/2.e1aaf660.chunk.js.map",
+    "static/js/3.8f0d8ca9.chunk.js": "/LizzzYu/react-practice-todolist-class/static/js/3.8f0d8ca9.chunk.js",
+    "static/js/3.8f0d8ca9.chunk.js.map": "/LizzzYu/react-practice-todolist-class/static/js/3.8f0d8ca9.chunk.js.map",
+    "index.html": "/LizzzYu/react-practice-todolist-class/index.html",
+    "static/css/main.da74558a.chunk.css.map": "/LizzzYu/react-practice-todolist-class/static/css/main.da74558a.chunk.css.map",
+    "static/js/2.e1aaf660.chunk.js.LICENSE.txt": "/LizzzYu/react-practice-todolist-class/static/js/2.e1aaf660.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc892859.js",
+    "static/js/2.e1aaf660.chunk.js",
+    "static/css/main.da74558a.chunk.css",
+    "static/js/main.3171367e.chunk.js"
+  ]
+}
